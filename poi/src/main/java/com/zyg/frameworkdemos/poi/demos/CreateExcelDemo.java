@@ -90,6 +90,6 @@ public class CreateExcelDemo {
 
     public static void main(String[] args) {
         createXlsMoreSheetWithAllStringCellType(new File("create1.xls"));
-        createXlsSingleRowWithDifferentCellType(new File("create2.xls"));
+//        createXlsSingleRowWithDifferentCellType(new File("create2.xls"));
     }
 }
